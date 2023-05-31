@@ -41,6 +41,28 @@
 			"ensenanza": 0,
 			"visual": 1,
 			"nombre_grupo": "REVISION EXTERIOR",
+			"nombre_defecto": "motocarro"
+		},
+		{
+			"codigo": "7.1.1.1.1",
+			"descripcion": "No presencia de una o todas las señales visuales",
+			"tipo": "A",
+			"codigotecmmas": "0",
+			"publico": 0,
+			"ensenanza": 0,
+			"visual": 1,
+			"nombre_grupo": "REVISION EXTERIOR",
+			"nombre_defecto": "motocarro"
+		},
+		{
+			"codigo": "7.1.1.1.2",
+			"descripcion": "Mal estado de una o todas las señales visuales",
+			"tipo": "A",
+			"codigotecmmas": "0",
+			"publico": 0,
+			"ensenanza": 0,
+			"visual": 1,
+			"nombre_grupo": "REVISION EXTERIOR",
 			"nombre_defecto": "motocicletas y motociclos"
 		},
 		{
