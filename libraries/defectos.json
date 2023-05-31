@@ -33,6 +33,28 @@
 			"nombre_defecto": "liviano pesado"
 		},
 		{
+			"codigo": "7.1.1.1.2",
+			"descripcion": "Mal estado de una o todas las señales visuales",
+			"tipo": "A",
+			"codigotecmmas": "0",
+			"publico": 0,
+			"ensenanza": 0,
+			"visual": 1,
+			"nombre_grupo": "REVISION EXTERIOR",
+			"nombre_defecto": "motocicletas y motociclos"
+		},
+		{
+			"codigo": "7.1.1.1.1",
+			"descripcion": "No presencia de una o todas las señales visuales",
+			"tipo": "A",
+			"codigotecmmas": "0",
+			"publico": 0,
+			"ensenanza": 0,
+			"visual": 1,
+			"nombre_grupo": "REVISION EXTERIOR",
+			"nombre_defecto": "motocicletas y motociclos"
+		},
+		{
 			"codigo": "1.1.1.1.10",
 			"descripcion": "La  inexistencia  de  los  sistemas  mecánicos,  neumáticos  y  eléctricos  de  acoplamiento.  (es  aplicable  a vehículos diseñados para llevar remolques o semi-remolques)",
 			"tipo": "A",
